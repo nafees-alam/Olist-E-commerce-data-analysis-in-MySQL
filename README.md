@@ -8,7 +8,7 @@ E-commerce has changed how we shop without limitations of time and space. I am i
 
 ## Method and results
 
-Tools: [MYSQL](https://github.com/ming-shan-lu/Olist/blob/main/Olist.sql) [Tableau](https://public.tableau.com/app/profile/ming.shan.lu/viz/OlistE-commercePerformanceDashboard/Olist_dashboard)
+Tools: [MYSQL](https://github.com/ming-shan-lu/Olist/blob/main/Olist.sql)
  
 Results:
 
